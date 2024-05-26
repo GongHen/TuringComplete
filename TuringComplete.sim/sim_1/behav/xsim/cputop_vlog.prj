@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../TuringComplete.srcs/sources_1/new/RAM.v" \
+"../../../../TuringComplete.srcs/sources_1/new/ROM.v" \
+"../../../../TuringComplete.srcs/sources_1/new/addr_decode.v" \
+"../../../../TuringComplete.srcs/sources_1/new/counter.v" \
+"../../../../TuringComplete.srcs/sources_1/new/cpu.v" \
+"../../../../TuringComplete.srcs/sources_1/new/data_ctrl.v" \
+"../../../../TuringComplete.srcs/sources_1/new/m_accum.v" \
+"../../../../TuringComplete.srcs/sources_1/new/m_adr.v" \
+"../../../../TuringComplete.srcs/sources_1/new/m_alu_ena.v" \
+"../../../../TuringComplete.srcs/sources_1/new/m_register.v" \
+"../../../../TuringComplete.srcs/sources_1/new/machine.v" \
+"../../../../TuringComplete.srcs/sources_1/new/machine_ctrl.v" \
+"../../../../TuringComplete.srcs/sources_1/new/mclk_gen.v" \
+"../../../../TuringComplete.srcs/sim_1/new/cputop.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,19 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/FPGA/CPU/TuringComplete/TuringComplete.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sim_1/new/cputop.v,1716722118,verilog,,,,cputop,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/RAM.v,1716708740,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/ROM.v,,ram,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/ROM.v,1716650261,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/addr_decode.v,,rom,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/addr_decode.v,1716708554,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/counter.v,,addr_decode,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/counter.v,1716650238,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/cpu.v,,counter,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/cpu.v,1716710219,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/data_ctrl.v,,cpu,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/data_ctrl.v,1716650183,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_accum.v,,data_ctrl,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_accum.v,1716650117,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_adr.v,,accum,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_adr.v,1716650212,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_alu_ena.v,,adr,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_alu_ena.v,1716650150,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_register.v,,alu,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/m_register.v,1716650084,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/machine.v,,register,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/machine.v,1716650176,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/machine_ctrl.v,,machine,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/machine_ctrl.v,1716650164,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/mclk_gen.v,,machine_ctrl,,,,,,,,
+E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sources_1/new/mclk_gen.v,1716650066,verilog,,E:/FPGA/CPU/TuringComplete/TuringComplete.srcs/sim_1/new/cputop.v,,clk_gen,,,,,,,,
